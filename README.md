@@ -1,4 +1,4 @@
- Opa, me chamo Marcos! No momento sou estudante de Sistemas para Internet no IFB (Instituto Federal de Brasília). Por agora estou focando na área de desenvolvimento web, mas também me aventuro em C.
+ Opa, me chamo Marcos! No momento sou estudante de Sistemas para Internet no IFB (Instituto Federal de Brasília). Por agora estou focado na programação em Java, mas também me aventuro com desenvolvimento web.
  <br>"O coração é o músculo mais forte"
       
 <!---
